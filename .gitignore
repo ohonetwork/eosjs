@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-dist/
 dist-web/
 node_modules/
 docs-build/

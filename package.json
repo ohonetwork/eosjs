@@ -6,7 +6,6 @@
   "scripts": {
     "cypress": "cypress run --spec 'cypress/integration/index.spec.js'",
     "cypress-ui": "cypress open",
-    "prepare": "npm run build",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
     "test": "jest src/tests/*eosjs*",
     "test-node": "jest src/tests/*node*",
